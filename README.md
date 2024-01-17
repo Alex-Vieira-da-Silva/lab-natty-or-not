@@ -21,22 +21,21 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
+Natty or Not
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Nesse projeto foram utilizados todos os conceitos de IA Generativa, desafio proposto na plataforma da "Dio".
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+OpenAI, D id, CreateContext, ParpeCup, PhotoRoom e Depix
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Nesse projeto foram criados avatares, edição de imagem e criação de perfil com as ferramentas proposto para esse desafio.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Como profissional foi um grande prazer participar desse projeto.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+
 
 ### Exemplos e Insigths
 
